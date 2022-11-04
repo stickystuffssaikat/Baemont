@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Baemont/static/css/main.5fd27b4b.css",
+    "main.js": "/Baemont/static/js/main.c0f91128.js",
+    "static/js/787.18ced4d5.chunk.js": "/Baemont/static/js/787.18ced4d5.chunk.js",
+    "index.html": "/Baemont/index.html",
+    "static/media/nav_icon.svg": "/Baemont/static/media/nav_icon.5c38f3aa80c81bd1ace1.svg",
+    "main.5fd27b4b.css.map": "/Baemont/static/css/main.5fd27b4b.css.map",
+    "main.c0f91128.js.map": "/Baemont/static/js/main.c0f91128.js.map",
+    "787.18ced4d5.chunk.js.map": "/Baemont/static/js/787.18ced4d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fd27b4b.css",
+    "static/js/main.c0f91128.js"
+  ]
+}
